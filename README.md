@@ -22,9 +22,9 @@ Basics or fundamentals of scientific subjects, in the form of:
 #### ...
 
 ## Sources
+github: https://github.com/Dade1989/BASICS  
 website: https://basics.altervista.org  
-mail: basics.314159@gmail.com
-github: https://github.com/Dade1989/BASICS
+mail: basics.314159@gmail.com  
 
 <!--
 facebook: https://www.facebook.com/basicsfb
