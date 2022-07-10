@@ -2,6 +2,8 @@
 BASICS - hosted by GitHub
 
 ## Contents
+UNDER CONSTRUCTION. List of things or whishes
+
 Basics or fundamentals of scientific subjects, in the form of:
 - handwritten notes, 
 - simple codes (in Jupyter notebooks, so far)
