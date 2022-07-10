@@ -2,10 +2,13 @@
 BASICS - hosted by GitHub
 
 ## Contents
-Basics or fundamentals of sicentific subjects, in the form of:
+Basics or fundamentals of scientific subjects, in the form of:
 - handwritten notes
 - simple codes (in Jupyter notebooks, so far)
 
+#### Math
+
+#### Physics
 
 ### Sources
 website: https://basics.altervista.org  
