@@ -2,8 +2,7 @@
 BASICS - hosted by GitHub
 
 ### Sources
-website: https://basics.altervista.org
-
+website: https://basics.altervista.org  
 mail: basics.314159@gmail.com
 
 <!--
