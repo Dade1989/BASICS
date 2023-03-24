@@ -1,0 +1,9 @@
+{
+    "name": "simple",
+    "dependencies": {
+        "ol": "7.1.0"
+    },
+    "scripts":{
+        "build": "node main.js"
+    }
+}
